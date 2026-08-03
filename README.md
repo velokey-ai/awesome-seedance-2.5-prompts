@@ -16,7 +16,7 @@
 
 | 📝 Total Prompts | ⭐ Featured | 🏷️ Categories | 🔄 Last Updated |
 |---|---|---|---|
-| **91** | **14** | **6** | 2026-08-03 08:34 UTC |
+| **111** | **15** | **6** | 2026-08-03 09:04 UTC |
 
 ## 🗂️ Browse by Category
 
@@ -6179,7 +6179,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Prompt
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-03 08:34 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-03 09:04 UTC</sub>
 
 <br><sub>One API for leading text, image & video models · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedance)</sub>
 
