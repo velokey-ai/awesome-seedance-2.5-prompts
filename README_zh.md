@@ -16,7 +16,7 @@
 
 | 📝 提示词总数 | ⭐ 精选 | 🏷️ 分类数 | 🔄 最近更新 |
 |---|---|---|---|
-| **55** | **11** | **6** | 2026-08-03 08:19 UTC |
+| **55** | **11** | **6** | 2026-08-03 08:23 UTC |
 
 ## 🗂️ 按分类浏览
 
@@ -2807,7 +2807,7 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-03 08:19 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-03 08:23 UTC</sub>
 
 <br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedance)</sub>
 
