@@ -113,6 +113,7 @@ def cat_label(key, lang):
 
 
 def entry_md(p, t, lang):
+    """README 里的紧凑条目：封面 + 标题 + 链接（prompt 正文在 prompts/<id>.md）。"""
     title = p["title"] if lang == "zh" else p.get("title_en", p["title"])
     ckey = cat_of(p)
     cname = CATEGORIES[ckey][lang]
@@ -123,31 +124,41 @@ def entry_md(p, t, lang):
     ]
     if p.get("featured"):
         badges.append("![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)")
-    if p.get("needs_input"):
-        badges.append("![Needs input](https://img.shields.io/badge/needs-reference_image-orange)")
     lines += [" ".join(badges), ""]
-    # 视频仓：封面帧可点击跳原推文观看视频（方案 B）；图片懒加载
-    imgs = p.get("images", [])
-    src = p.get("source", "#")
+    imgs = [f for f in p.get("images", []) if not f.lower().endswith((".mp4", ".mov", ".webm"))]
+    detail = f"prompts/{p['id']}.md"
+    open_p = "📖 查看提示词" if lang == "zh" else "📖 View prompt"
     if imgs:
-        cells = " ".join(
-            f'<a href="{src}"><img src="images/{f}" width="420" loading="lazy" alt="{title}"></a>'
-            for f in imgs if not f.lower().endswith((".mp4", ".mov", ".webm"))
-        )
-        lines += ["<div align=\"center\">", "", cells, "",
-                  f'<a href="{src}"><b>{t["watch"]}</b></a>', "", "</div>", ""]
-    # prompt 默认折叠，点击展开（避免一条占满整屏）
-    lines += ["<details>", f"<summary>{t['prompt']}</summary>", "", "```", p["prompt"].strip(), "```", "", "</details>", ""]
-    if p.get("needs_input"):
-        lines += [t["needs_input"], ""]
-    if p.get("note"):
-        lines += [f"> {t['note']}: {p['note']}", ""]
-    credit = f"**{t['credit']}:** [{p['author']}]({p['author_link']}) · [source]({p['source']})"
-    if p.get("via"):
-        credit += f" · {t['via']} {p['via']}"
-    lines += [credit, "", t["try_line"].replace("{model}", p.get("model", "seedance-2.5")), ""]
+        lines += ["<div align=\"center\">", "",
+                  f'<a href="{detail}"><img src="images/{imgs[0]}" width="380" loading="lazy" alt="{title}"></a>', "",
+                  f'<b><a href="{detail}">{open_p}</a></b> · <a href="{p.get("source","#")}">{t["watch"]}</a>', "",
+                  "</div>", ""]
     lines += ["---", ""]
     return "\n".join(lines)
+
+
+def write_details(prompts):
+    """为每条生成 prompts/<id>.md 详情页（含完整 prompt），让 README 保持轻量。"""
+    dirp = os.path.join(ROOT, "prompts")
+    os.makedirs(dirp, exist_ok=True)
+    for p in prompts:
+        title_zh = p["title"]; title_en = p.get("title_en", p["title"])
+        cat = CATEGORIES[cat_of(p)]
+        imgs = [f for f in p.get("images", []) if not f.lower().endswith((".mp4", ".mov", ".webm"))]
+        L = [f"[← 返回全部 / Back to all]( ../README_zh.md )　|　[English list](../README.md)", "",
+             f"# No.{p['id']} · {title_zh} / {title_en}", "",
+             f"`{cat['zh']} / {cat['en']}`　`model: {p.get('model','seedance-2.5')}`", ""]
+        if imgs:
+            L += ["<div align=\"center\">", "",
+                  f'<a href="{p.get("source","#")}"><img src="../images/{imgs[0]}" width="520" alt="{title_en}"></a>', "",
+                  f'<b><a href="{p.get("source","#")}">▶️ 在 X 上观看视频 / Watch on X</a></b>', "", "</div>", ""]
+        if p.get("note"):
+            L += [f"> 💡 {p['note']}", ""]
+        L += ["## 📝 Prompt", "", "```", p["prompt"].strip(), "```", ""]
+        L += [f"**👤 出处 / Credit:** [{p['author']}]({p['author_link']}) · [source]({p['source']})", ""]
+        L += [f"▶️ **用 API 跑这条 / Run via API** → [Velokey]({SITE}) (`{p.get('model','seedance-2.5')}`)", ""]
+        with open(os.path.join(dirp, f"{p['id']}.md"), "w", encoding="utf-8") as f:
+            f.write("\n".join(L))
 
 
 def build(lang):
@@ -202,9 +213,12 @@ def build(lang):
 
 
 if __name__ == "__main__":
+    _prompts = yaml.safe_load(open(DATA, encoding="utf-8")) or []
+    write_details(_prompts)                       # 先写每条 prompts/<id>.md 详情页
     for lang, fname in (("en", "README.md"), ("zh", "README_zh.md")):
         out = build(lang)
         path = os.path.join(ROOT, fname)
         with open(path, "w", encoding="utf-8") as f:
             f.write(out)
         print(f"✅ {fname} generated")
+    print(f"✅ {len(_prompts)} 个 prompts/*.md 详情页已生成")
