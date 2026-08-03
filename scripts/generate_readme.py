@@ -126,17 +126,18 @@ def entry_md(p, t, lang):
     if p.get("needs_input"):
         badges.append("![Needs input](https://img.shields.io/badge/needs-reference_image-orange)")
     lines += [" ".join(badges), ""]
-    # 视频仓：封面帧可点击跳原推文观看视频（方案 B）
+    # 视频仓：封面帧可点击跳原推文观看视频（方案 B）；图片懒加载
     imgs = p.get("images", [])
     src = p.get("source", "#")
     if imgs:
         cells = " ".join(
-            f'<a href="{src}"><img src="images/{f}" width="480" alt="{title}"></a>'
+            f'<a href="{src}"><img src="images/{f}" width="420" loading="lazy" alt="{title}"></a>'
             for f in imgs if not f.lower().endswith((".mp4", ".mov", ".webm"))
         )
         lines += ["<div align=\"center\">", "", cells, "",
                   f'<a href="{src}"><b>{t["watch"]}</b></a>', "", "</div>", ""]
-    lines += [f"**{t['prompt']}:**", "", "```", p["prompt"].strip(), "```", ""]
+    # prompt 默认折叠，点击展开（避免一条占满整屏）
+    lines += ["<details>", f"<summary>{t['prompt']}</summary>", "", "```", p["prompt"].strip(), "```", "", "</details>", ""]
     if p.get("needs_input"):
         lines += [t["needs_input"], ""]
     if p.get("note"):
