@@ -16,7 +16,7 @@
 
 | 📝 提示词总数 | ⭐ 精选 | 🏷️ 分类数 | 🔄 最近更新 |
 |---|---|---|---|
-| **55** | **11** | **6** | 2026-08-03 08:23 UTC |
+| **91** | **14** | **6** | 2026-08-03 08:34 UTC |
 
 ## 🗂️ 按分类浏览
 
@@ -4600,7 +4600,7 @@ It has a totally different style from the video below:)
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-03 08:23 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-03 08:34 UTC</sub>
 
 <br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedance)</sub>
 
