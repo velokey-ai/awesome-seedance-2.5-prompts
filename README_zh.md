@@ -20,7 +20,7 @@
 
 ## 🗂️ 按分类浏览
 
-<details open><summary><b>🎞️ 电影运镜</b> (34)</summary>
+<details open><summary><b>🎞️ 电影运镜</b> (36)</summary>
 
 - [⭐ No.1 大巴扎追逐长镜](#no1-大巴扎追逐长镜)
 - [⭐ No.11 史诗奇幻电影长镜](#no11-史诗奇幻电影长镜)
@@ -56,10 +56,12 @@
 - [No.103 一镜到底电影感人像](#no103-一镜到底电影感人像)
 - [No.105 电影级一镜到底模板](#no105-电影级一镜到底模板)
 - [No.108 IMAX 真人大片](#no108-imax-真人大片)
+- [No.113 云缝匠·飞天火车](#no113-云缝匠飞天火车)
+- [No.117 日本弓道 TV 纪录片](#no117-日本弓道-tv-纪录片)
 
 </details>
 
-<details open><summary><b>🕺 角色动作</b> (25)</summary>
+<details open><summary><b>🕺 角色动作</b> (27)</summary>
 
 - [⭐ No.5 POV·日本海岸晨间通勤](#no5-pov日本海岸晨间通勤)
 - [No.4 手机公寓探店 Vlog](#no4-手机公寓探店-vlog)
@@ -86,6 +88,8 @@
 - [No.109 日系偶像个人 VLOG](#no109-日系偶像个人-vlog)
 - [No.110 伪偷拍真实生活 VLOG](#no110-伪偷拍真实生活-vlog)
 - [No.111 播客采访对话](#no111-播客采访对话)
+- [No.115 夏威夷热带旅行 Vlog](#no115-夏威夷热带旅行-vlog)
+- [No.116 日本怪兽袭击动作 Vlog](#no116-日本怪兽袭击动作-vlog)
 
 </details>
 
@@ -104,11 +108,12 @@
 
 </details>
 
-<details open><summary><b>🌸 动漫二次元</b> (14)</summary>
+<details open><summary><b>🌸 动漫二次元</b> (16)</summary>
 
 - [⭐ No.3 动漫刀战·25机位](#no3-动漫刀战25机位)
 - [⭐ No.25 80-90 年代 anime 风](#no25-80-90-年代-anime-风)
 - [⭐ No.61 盐湖金剑决斗·2.5D](#no61-盐湖金剑决斗25d)
+- [⭐ No.112 孔雀与猫头鹰·Pixar 动画](#no112-孔雀与猫头鹰pixar-动画)
 - [No.23 中国古风人物小传](#no23-中国古风人物小传)
 - [No.33 龟兔赛跑·文字生成动画](#no33-龟兔赛跑文字生成动画)
 - [No.40 黏土马克杯 3D 动画](#no40-黏土马克杯-3d-动画)
@@ -120,6 +125,7 @@
 - [No.74 定格动画肢体喜剧](#no74-定格动画肢体喜剧)
 - [No.75 云之牧羊人·3D 动画](#no75-云之牧羊人3d-动画)
 - [No.96 动漫与现实融合](#no96-动漫与现实融合)
+- [No.114 维京奇幻手绘 3D 动画](#no114-维京奇幻手绘-3d-动画)
 
 </details>
 
@@ -368,6 +374,20 @@
 <a href="prompts/98.md"><img src="images/98.jpg" width="380" loading="lazy" alt="多国连续旅程长镜"></a>
 
 <b><a href="prompts/98.md">📖 查看提示词</a></b> · <a href="https://x.com/AIcanvas_Frames/status/2083383374840787223">▶️ 在 X 上观看视频</a>
+
+</div>
+
+---
+
+### No.112 孔雀与猫头鹰·Pixar 动画
+
+![Category](https://img.shields.io/badge/分类-动漫二次元-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<a href="prompts/112.md"><img src="images/112.jpg" width="380" loading="lazy" alt="孔雀与猫头鹰·Pixar 动画"></a>
+
+<b><a href="prompts/112.md">📖 查看提示词</a></b> · <a href="https://x.com/Dheepanratnam/status/2084397163560181783">▶️ 在 X 上观看视频</a>
 
 </div>
 
@@ -1712,6 +1732,76 @@
 <a href="prompts/111.md"><img src="images/111.jpg" width="380" loading="lazy" alt="播客采访对话"></a>
 
 <b><a href="prompts/111.md">📖 查看提示词</a></b> · <a href="https://x.com/Nabilidosoo/status/2083148007843774669">▶️ 在 X 上观看视频</a>
+
+</div>
+
+---
+
+### No.113 云缝匠·飞天火车
+
+![Category](https://img.shields.io/badge/分类-电影运镜-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/113.md"><img src="images/113.jpg" width="380" loading="lazy" alt="云缝匠·飞天火车"></a>
+
+<b><a href="prompts/113.md">📖 查看提示词</a></b> · <a href="https://x.com/StarjupiAI/status/2084368408791949782">▶️ 在 X 上观看视频</a>
+
+</div>
+
+---
+
+### No.114 维京奇幻手绘 3D 动画
+
+![Category](https://img.shields.io/badge/分类-动漫二次元-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/114.md"><img src="images/114.jpg" width="380" loading="lazy" alt="维京奇幻手绘 3D 动画"></a>
+
+<b><a href="prompts/114.md">📖 查看提示词</a></b> · <a href="https://x.com/Carlos_Arthurr/status/2084341370400227489">▶️ 在 X 上观看视频</a>
+
+</div>
+
+---
+
+### No.115 夏威夷热带旅行 Vlog
+
+![Category](https://img.shields.io/badge/分类-角色动作-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/115.md"><img src="images/115.jpg" width="380" loading="lazy" alt="夏威夷热带旅行 Vlog"></a>
+
+<b><a href="prompts/115.md">📖 查看提示词</a></b> · <a href="https://x.com/Just_sharon7/status/2084238339469615320">▶️ 在 X 上观看视频</a>
+
+</div>
+
+---
+
+### No.116 日本怪兽袭击动作 Vlog
+
+![Category](https://img.shields.io/badge/分类-角色动作-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/116.md"><img src="images/116.jpg" width="380" loading="lazy" alt="日本怪兽袭击动作 Vlog"></a>
+
+<b><a href="prompts/116.md">📖 查看提示词</a></b> · <a href="https://x.com/saniaspeaks_/status/2084231786155081918">▶️ 在 X 上观看视频</a>
+
+</div>
+
+---
+
+### No.117 日本弓道 TV 纪录片
+
+![Category](https://img.shields.io/badge/分类-电影运镜-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/117.md"><img src="images/117.jpg" width="380" loading="lazy" alt="日本弓道 TV 纪录片"></a>
+
+<b><a href="prompts/117.md">📖 查看提示词</a></b> · <a href="https://x.com/magic_ai_skill/status/2084310185502511554">▶️ 在 X 上观看视频</a>
 
 </div>
 

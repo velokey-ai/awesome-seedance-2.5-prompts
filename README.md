@@ -20,7 +20,7 @@
 
 ## 🗂️ Browse by Category
 
-<details open><summary><b>🎞️ Cinematic</b> (34)</summary>
+<details open><summary><b>🎞️ Cinematic</b> (36)</summary>
 
 - [⭐ No.1 Grand Bazaar Chase — One Continuous Take](#no1-grand-bazaar-chase--one-continuous-take)
 - [⭐ No.11 Epic Fantasy Cinematic Long Take](#no11-epic-fantasy-cinematic-long-take)
@@ -56,10 +56,12 @@
 - [No.103 One-Take Cinematic Portrait](#no103-one-take-cinematic-portrait)
 - [No.105 Cinematic Oner Template](#no105-cinematic-oner-template)
 - [No.108 IMAX-Scale Live-Action Blockbuster](#no108-imax-scale-live-action-blockbuster)
+- [No.113 Cloudstitcher — Flying Sky Train](#no113-cloudstitcher--flying-sky-train)
+- [No.117 Japanese Kyudo TV Documentary](#no117-japanese-kyudo-tv-documentary)
 
 </details>
 
-<details open><summary><b>🕺 Character & Action</b> (25)</summary>
+<details open><summary><b>🕺 Character & Action</b> (27)</summary>
 
 - [⭐ No.5 POV Morning Commute in Coastal Japan](#no5-pov-morning-commute-in-coastal-japan)
 - [No.4 Smartphone Apartment Tour Vlog](#no4-smartphone-apartment-tour-vlog)
@@ -86,6 +88,8 @@
 - [No.109 Japanese Idol Personal Vlog (1 min)](#no109-japanese-idol-personal-vlog-1-min)
 - [No.110 Candid-Style Real-Life Vlog](#no110-candid-style-real-life-vlog)
 - [No.111 Podcast Interview Dialogue (Spanish)](#no111-podcast-interview-dialogue-spanish)
+- [No.115 Hawaii Tropical Travel Vlog](#no115-hawaii-tropical-travel-vlog)
+- [No.116 Japan Monster-Attack Action Vlog](#no116-japan-monster-attack-action-vlog)
 
 </details>
 
@@ -104,11 +108,12 @@
 
 </details>
 
-<details open><summary><b>🌸 Anime & Stylized</b> (14)</summary>
+<details open><summary><b>🌸 Anime & Stylized</b> (16)</summary>
 
 - [⭐ No.3 Anime Sword Duel, 25 Camera Angles](#no3-anime-sword-duel-25-camera-angles)
 - [⭐ No.25 1980s-90s Anime Style](#no25-1980s-90s-anime-style)
 - [⭐ No.61 Salt-Lake Golden-Sword Duel](#no61-salt-lake-golden-sword-duel)
+- [⭐ No.112 Peacock & Owl — Pixar Animation](#no112-peacock--owl--pixar-animation)
 - [No.23 Chinese Guofeng Character Short](#no23-chinese-guofeng-character-short)
 - [No.33 Tortoise & Hare T2V Tale](#no33-tortoise--hare-t2v-tale)
 - [No.40 Clay Mug 3D Animation](#no40-clay-mug-3d-animation)
@@ -120,6 +125,7 @@
 - [No.74 Stop-Motion Physical Comedy](#no74-stop-motion-physical-comedy)
 - [No.75 Cloud Shepherd 3D (JSON)](#no75-cloud-shepherd-3d-json)
 - [No.96 Anime-Reality Fusion](#no96-anime-reality-fusion)
+- [No.114 Viking Painterly-3D Fantasy](#no114-viking-painterly-3d-fantasy)
 
 </details>
 
@@ -368,6 +374,20 @@
 <a href="prompts/98.md"><img src="images/98.jpg" width="380" loading="lazy" alt="Multi-Country Journey Oner (no ref)"></a>
 
 <b><a href="prompts/98.md">📖 View prompt</a></b> · <a href="https://x.com/AIcanvas_Frames/status/2083383374840787223">▶️ Watch the video on X</a>
+
+</div>
+
+---
+
+### No.112 Peacock & Owl — Pixar Animation
+
+![Category](https://img.shields.io/badge/category-Anime_&_Stylized-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+<div align="center">
+
+<a href="prompts/112.md"><img src="images/112.jpg" width="380" loading="lazy" alt="Peacock & Owl — Pixar Animation"></a>
+
+<b><a href="prompts/112.md">📖 View prompt</a></b> · <a href="https://x.com/Dheepanratnam/status/2084397163560181783">▶️ Watch the video on X</a>
 
 </div>
 
@@ -1712,6 +1732,76 @@
 <a href="prompts/111.md"><img src="images/111.jpg" width="380" loading="lazy" alt="Podcast Interview Dialogue (Spanish)"></a>
 
 <b><a href="prompts/111.md">📖 View prompt</a></b> · <a href="https://x.com/Nabilidosoo/status/2083148007843774669">▶️ Watch the video on X</a>
+
+</div>
+
+---
+
+### No.113 Cloudstitcher — Flying Sky Train
+
+![Category](https://img.shields.io/badge/category-Cinematic-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/113.md"><img src="images/113.jpg" width="380" loading="lazy" alt="Cloudstitcher — Flying Sky Train"></a>
+
+<b><a href="prompts/113.md">📖 View prompt</a></b> · <a href="https://x.com/StarjupiAI/status/2084368408791949782">▶️ Watch the video on X</a>
+
+</div>
+
+---
+
+### No.114 Viking Painterly-3D Fantasy
+
+![Category](https://img.shields.io/badge/category-Anime_&_Stylized-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/114.md"><img src="images/114.jpg" width="380" loading="lazy" alt="Viking Painterly-3D Fantasy"></a>
+
+<b><a href="prompts/114.md">📖 View prompt</a></b> · <a href="https://x.com/Carlos_Arthurr/status/2084341370400227489">▶️ Watch the video on X</a>
+
+</div>
+
+---
+
+### No.115 Hawaii Tropical Travel Vlog
+
+![Category](https://img.shields.io/badge/category-Character_&_Action-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/115.md"><img src="images/115.jpg" width="380" loading="lazy" alt="Hawaii Tropical Travel Vlog"></a>
+
+<b><a href="prompts/115.md">📖 View prompt</a></b> · <a href="https://x.com/Just_sharon7/status/2084238339469615320">▶️ Watch the video on X</a>
+
+</div>
+
+---
+
+### No.116 Japan Monster-Attack Action Vlog
+
+![Category](https://img.shields.io/badge/category-Character_&_Action-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/116.md"><img src="images/116.jpg" width="380" loading="lazy" alt="Japan Monster-Attack Action Vlog"></a>
+
+<b><a href="prompts/116.md">📖 View prompt</a></b> · <a href="https://x.com/saniaspeaks_/status/2084231786155081918">▶️ Watch the video on X</a>
+
+</div>
+
+---
+
+### No.117 Japanese Kyudo TV Documentary
+
+![Category](https://img.shields.io/badge/category-Cinematic-8A2BE2) ![Model](https://img.shields.io/badge/model-seedance--2.5-blue)
+
+<div align="center">
+
+<a href="prompts/117.md"><img src="images/117.jpg" width="380" loading="lazy" alt="Japanese Kyudo TV Documentary"></a>
+
+<b><a href="prompts/117.md">📖 View prompt</a></b> · <a href="https://x.com/magic_ai_skill/status/2084310185502511554">▶️ Watch the video on X</a>
 
 </div>
 

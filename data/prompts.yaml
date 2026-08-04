@@ -3692,3 +3692,159 @@
   author: '@Nabilidosoo'
   author_link: https://x.com/Nabilidosoo
   source: https://x.com/Nabilidosoo/status/2083148007843774669
+- id: 112
+  title: 孔雀与猫头鹰·Pixar 动画
+  title_en: Peacock & Owl — Pixar Animation
+  featured: true
+  category: anime
+  model: seedance-2.5
+  prompt: |
+    A 30-second 3D animated short film in the style of a Pixar/Dreamworks feature — expressive squash-and-stretch character animation, cinematic lighting, shallow depth of field, rich saturated colors, soft volumetric light, and highly detailed feather and environment rendering.
+
+    CHARACTERS: PERCIVAL, a magnificent proud peacock with shimmering iridescent blue-green tail feathers that fan out dramatically, glossy and perfectly groomed, theatrical expressions, aristocratic posture. PIP, a small scruffy brown sparrow with messy feathers, bright confident eyes, quick bouncy movements.
+
+    SETTING: A golden-hour sunlit forest path after rain. A large glistening muddy puddle blocks the trail, reflecting the sky. Lush greenery, god rays through trees, floating pollen particles, wet leaves sparkling.
+
+    SHOT 1 (0:00–0:04) — WIDE ESTABLISHING SHOT: Slow cinematic dolly-in along the forest path. Percival struts into frame in slow motion, tail fanning open like a royal cape, feathers catching the sunlight. Triumphant orchestral sting. He stops abruptly at the edge of the huge muddy puddle. Camera crash-zooms onto his horrified face.
+
+    PERCIVAL (appalled, posh accent): "A puddle?! On MY path?!"
+
+    SHOT 2 (0:04–0:10) — LOW ANGLE, over-the-puddle shot: The camera sits low across the water, making the puddle look like an ocean. Percival circles it anxiously, lifting each foot delicately, grimacing. Extreme close-up on his immaculate tail feathers quivering at the mere sight of mud.
+
+    PERCIVAL: "I can't cross THAT! Do you know how long these feathers take to dry?!"
+
+    SHOT 3 (0:10–0:15) — WHIP PAN to Pip the sparrow landing on a nearby branch, ruffled and chirpy. Pip looks at the puddle, looks at Percival, shrugs.
+
+    PIP (cheerful, cockney energy): "It's two feet wide, mate."
+
+    SHOT 4 (0:15–0:19) — DYNAMIC TRACKING SHOT: Pip takes a running start and hops clean over the puddle in one joyful bounce — slow-motion mid-air moment, mud droplets sparkling around him, then lands perfectly on the other side and keeps walking without breaking stride. Percival watches, beak open in disbelief.
+
+    SHOT 5 (0:19–0:24) — WIDE SHOT, dramatic angle: Percival begins the long walk AROUND the puddle — the camera pulls up and back in a sweeping crane shot revealing his absurdly long detour through bushes, over a log, past a confused family of ducks. Epic adventure music swells ironically.
+
+    PERCIVAL (marching, huffy): "A gentleman NEVER rushes!"
+
+    SHOT 6 (0:24–0:28) — NIGHT FALLS. The same spot, now moonlit, fireflies glowing, crickets. Percival finally arrives, exhausted, feathers drooping, one leaf stuck to his head. Pip is already there, fast asleep in a cozy nest, snoring softly, one eye opening.
+
+    PIP (sleepy, deadpan): "Longer than the walk, apparently."
+
+    SHOT 7 (0:28–0:30) — FINAL CLOSE-UP: Percival stares directly into camera, deadpan, tail feathers wilting one by one like a deflating balloon. Comedic trombone sting. Title card appears in elegant gold lettering over the moonlit puddle: "Don't let looking good stop you from getting there."
+
+    AUDIO DESIGN: playful orchestral score with comedic timing, bouncy pizzicato strings for Pip, pompous brass for Percival, exaggerated cartoon footsteps, splashes, feather rustles, and a record-scratch when Percival sees the puddle. Expressive character voice acting with big comedic performances.
+
+    CINEMATOGRAPHY: anamorphic lens flares on the feathers, warm golden-hour color grade shifting to cool blue moonlight, shallow focus character close-ups, confident comedic camera movement, clean composition with strong silhouettes. Ultra-detailed subsurface scattering on feathers and wet mud, Pixar-quality rendering, 4K, 24fps cinematic motion.
+  images:
+  - 112.jpg
+  author: '@Dheepanratnam'
+  author_link: https://x.com/Dheepanratnam
+  source: https://x.com/Dheepanratnam/status/2084397163560181783
+- id: 113
+  title: 云缝匠·飞天火车
+  title_en: Cloudstitcher — Flying Sky Train
+  category: cinematic
+  model: seedance-2.5
+  note: 需角色+世界设定参考图
+  prompt: |
+    @ Image1 was reused as the master identity reference for Cloudstitcher and the cloud companion.
+
+    @ Image2 defined the flying train, roof environment, Sun Core chamber and dark city. It was a world-design reference, not a frame-by-frame storyboard.
+
+    PROMPT ↓
+
+    @ Image1 defines one Cloudstitcher and one cloud companion. Preserve their exact faces, colors, body proportions, costume, ornaments, weapons and materials. Never duplicate, merge or redesign them. Ignore the studio background.
+
+    @ Image2 defines the world only: the flying train exterior, playable train roof, Sun Core chamber and dark city with the empty Sun Tower. Preserve its turquoise, cream, brass-gold and coral-red design language. Never reproduce it as a collage, split screen, storyboard or opening frame.
+
+    0–5s — Begin inside the finished game world. Above the dark city, show Cloudstitcher full-body on a floating stone platform. The companion waits behind as a flying train approaches.
+
+    5–11s — The hero runs and leaps toward the train. The companion briefly supports the movement like a cloud bridge. Cloudstitcher lands on the roof.
+
+    11–17s — The hero moves across the train roof and uses a golden needle with coral-red thread to pull toward the locomotive hatch.
+
+    17–23s — Cloudstitcher enters the circular engine chamber. Using both needles, the hero unlocks the mechanism and takes the intact golden Sun Core.
+
+    23–27s — The train breaks apart into rain, brass fragments and cloud vapor. The hero falls while protecting the Core. The same companion dives and catches them.
+
+    27–30s — They reach the Sun Tower. Cloudstitcher places the Core into its empty socket, sending a warm golden wave across the city.
+
+    Premium stylized 3D fantasy action-RPG cinematic with fluid chase cameras, readable movement, expressive fabric and cloud physics. Stormy blue-gray atmosphere contrasted by turquoise, cream, coral-red and warm brass-gold.
+
+    Wind, thunder, machinery, metallic impacts, cloud whooshes and orchestral percussion. No dialogue, narration, subtitles, UI, text, logos, extra characters or multiple Sun Cores.
+  images:
+  - 113.jpg
+  author: '@StarjupiAI'
+  author_link: https://x.com/StarjupiAI
+  source: https://x.com/StarjupiAI/status/2084368408791949782
+- id: 114
+  title: 维京奇幻手绘 3D 动画
+  title_en: Viking Painterly-3D Fantasy
+  category: anime
+  model: seedance-2.5
+  prompt: |
+    --
+
+    Animated fantasy with painterly 3D characters, hand-painted textures, expressive faces, bold silhouettes, dramatic color contrast, visible brushwork, stylized motion smears and cinematic lighting. Deep emerald forest, shafts of golden sunlight, cool blue shadows, drifting pollen and ancient moss-covered ruins. Energetic camera movement, playful character acting and explosive fantasy action. The hero is a huge, cheerful Viking with a braided ginger beard, fur-lined blue cloak, round wooden shield and a slightly too-small horned helmet. Keep his costume, weapons and proportions perfectly consistent throughout. 0–4s: [Wide Tracking Shot] The Viking strolls happily through the forest, humming to himself and swinging his axe over one shoulder. Birds flutter around him. He picks a tiny yellow flower, tucks it into his beard and continues walking with a broad, innocent smile. 4–8s: [Sudden Whip Pan] A crude goblin arrow strikes his shield. Dozens of small green goblins burst from hollow trees, bushes and underground burrows, shrieking as they surround him. The Viking pauses, looks at the arrow, then gives them a delighted grin—as if this has made his walk more interesting. 8–15s: [Fast Kinetic Combat] A wild forest fight erupts. The camera rushes between swinging axes, spinning shields and goblins flying through clouds of leaves. The Viking fights with joyful, oversized movements: shield-bashing three goblins at once, ducking beneath spears and using a fallen tree trunk like a battering ram. Stylized impact frames, painted motion streaks, splintered wood and showers of glowing leaves. No blood or gore. 15–19s: [Rising Crane Shot] More goblins pour from the forest and force him backward onto the edge of a towering cliff. His heels scrape loose stones into the ravine. Hundreds of goblins close in. For the first time, his smile fades. He looks over the edge, then back at the advancing army. 19–23s: [Epic Hero Entrance] Three silhouettes appear against the blazing sun on the cliff above him: a fierce Viking witch with glowing blue runes circling her hands, a colossal bearded giant covered in iron and fur, and a sharp-eyed Viking archer drawing three arrows at once. They leap down through the mist in dramatic slow motion. The witch lands in a burst of blue fire. The archer releases three arrows before touching the ground. The giant lands last, cracking the rock beneath everyone’s feet. The Viking’s huge smile instantly returns. His friends have arrived. 23–27s: [Extreme Wide Launch Sequence] The giant scoops up the Viking, witch and archer in one enormous arm. With a thunderous spinning throw, he launches all three across the ravine toward the goblin village below. The witch becomes a streak of blue magic, the archer fires glowing arrows in flight and the Viking raises his axe, laughing with pure delight. The giant takes one running leap after them. 27–31s: [Chaotic Aerial Destruction] The heroes crash into the goblin village like four living cannonballs. Towers collapse, wooden huts explode into painted splinters and goblins flee in every direction. The witch sends a magical shockwave through the streets. The archer cuts suspension ropes with impossible precision. The giant tears down the central watchtower while the Viking rides its falling roof through the village, still holding the flower in his beard. The destruction feels spectacular, playful and heroic rather than brutal. 31–35s: [Final Hero Shot] Hard cut to silence. The Viking sits proudly on the goblin king’s oversized throne amid the ruined village, legs spread and axe resting beside him. His witch, giant and archer friends stand behind the throne, exhausted but victorious. A tiny goblin cautiously offers him a wooden mug. The Viking takes it, raises it toward his friends and smiles. Slow push toward his face as the yellow flower falls from his beard into the mug. Painterly fantasy animation, rich facial acting, dramatic lighting, strong character silhouettes, textured environments, stable character designs, clean weapon choreography, stylized destruction, cinematic depth of field, controlled motion blur, no gore, no character duplication, no costume changes, no visual artifacts, movie-level temporal coherence and high rewatch value.
+  images:
+  - 114.jpg
+  author: '@Carlos_Arthurr'
+  author_link: https://x.com/Carlos_Arthurr
+  source: https://x.com/Carlos_Arthurr/status/2084341370400227489
+- id: 115
+  title: 夏威夷热带旅行 Vlog
+  title_en: Hawaii Tropical Travel Vlog
+  category: character
+  model: seedance-2.5
+  note: 需人物参考图
+  prompt: |
+    A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Hawaii during a dreamy summer vacation. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style. Scene 1 (0-4s) — Arrival & City Walk: A beautiful Hawaiian morning. The woman walks through a bright tropical city street wearing a flowing floral summer dress and sunglasses. Palm trees line the sidewalk, sunlight reflects off colorful buildings, people walk casually in the background. Camera follows from behind, then transitions into a close-up of her smiling face as wind moves through her hair. Scene 2 (4-8s) — Beach Discovery: She steps onto a wide sandy beach with crystal blue ocean waves behind her. She walks barefoot along the shoreline, holding her dress slightly as waves touch her feet. Low-angle cinematic shots of footsteps in wet sand, ocean reflections, distant volcanic mountains under a clear sky. Scene 3 (8-12s) — Tropical Nature Moments: A cinematic worm's-eye view looking upward through towering palm trees. Golden sunlight streams between the leaves with beautiful lens flares. Cut to a close-up of her standing near a rocky ocean cliff, wind blowing through her hair while she looks peacefully toward the sea. Scene 4 (12-16s) — Beachfront Cafe & Slow Living: She sits alone at a cozy beachfront cafe near the window, drinking a tropical drink while watching waves outside. Soft sunlight enters through the glass. Close-up shots of her hands, coffee cup, ocean view, and thoughtful expression create an intimate travel diary feeling. Scene 5 (16-20s) — Ocean Adventure: She floats peacefully on a surfboard in calm turquoise ocean water. Camera moves around her from water level, showing gentle waves, sunlight sparkling on the sea surface, tropical coastline and mountains in the distance. She laughs naturally while looking toward the camera. Scene 6 (20-24s) — Night Market Exploration: A vibrant Hawaiian night market filled with warm lights, food stalls, and colorful decorations. She walks through the crowd, trying tropical fruit skewers and local street food. Cinematic close-ups of her reaction, glowing lanterns, neon bokeh, and bustling atmosphere. Scene 7 (24-27s) — Golden Sunset Ending: Wide cinematic silhouette shot of her standing on the ocean shore during sunset. Orange and pink skies reflect on the water. Waves gently move around her feet as she watches the sun disappear behind the horizon. Emotional travel film ending. Scene 8 (27-30s) — Hotel Night Reflection: Nighttime high-rise hotel balcony overlooking sparkling tropical city lights. She wears a simple white dress, leaning against the balcony while a warm breeze moves the curtains behind her. Final intimate close-up of her lying on the hotel bed, looking warmly into the camera lens with a peaceful smile. Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural movement, occasional POV shots, realistic autofocus adjustments, subtle motion blur. Visual Style: Dreamy Hawaii vacation film, luxury travel advertisement aesthetic, soft golden sunlight, realistic skin texture, cinematic depth of field, nostalgic 35mm film look, warm atmospheric colors, natural expressions, emotional storytelling. Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+  images:
+  - 115.jpg
+  author: '@Just_sharon7'
+  author_link: https://x.com/Just_sharon7
+  source: https://x.com/Just_sharon7/status/2084238339469615320
+- id: 116
+  title: 日本怪兽袭击动作 Vlog
+  title_en: Japan Monster-Attack Action Vlog
+  category: character
+  model: seedance-2.5
+  note: 需人物参考图
+  prompt: |
+    A cinematic action vlog in live-action photorealism. A young Japanese woman (image = her face and hair) leaves her house on a peaceful morning, casually filming herself with a handheld smartphone. As she walks through a busy Japanese street, people suddenly panic and run as a gigantic shadow monster appears in the distance, shaking the ground and roaring. She looks around in shock, then calmly places her phone on a nearby ledge. A glowing aura surrounds her as she transforms into a powerful armored heroine with flowing energy effects, her appearance remaining recognizable. She charges toward the giant creature and engages in a fast-paced, cinematic battle using agile martial arts, powerful energy strikes, and dramatic dodges through the city streets. After an intense final clash, she unleashes one decisive attack that defeats the monster, causing it to dissolve into glowing particles. The city becomes peaceful again. She transforms back into her normal appearance, smiling as relieved people gather around and respectfully bow in traditional Japanese style to thank her. She picks up her phone, laughs softly, waves at the camera, and says, "Everything's okay now. See you next time!" The video should feel like a high-budget live-action film with realistic physics, consistent character appearance, natural human movement, cinematic lighting, detailed visual effects, and no subtitles, logos, or watermarks.
+  images:
+  - 116.jpg
+  author: '@saniaspeaks_'
+  author_link: https://x.com/saniaspeaks_
+  source: https://x.com/saniaspeaks_/status/2084231786155081918
+- id: 117
+  title: 日本弓道 TV 纪录片
+  title_en: Japanese Kyudo TV Documentary
+  category: cinematic
+  model: seedance-2.5
+  prompt: |
+    Craft competition testing segment in a traditional Japanese archery hall, multi-camera documentary production, bright daylight through screens plus fluorescent tubes, sharp HD broadcast look, natural handheld shake on action cams, clean documentary texture, no cinematic film look.
+
+    An indoor wooden-floored archery hall. One entire wall is a lattice screen letting in flat white light; white plaster walls with exposed dark timber posts.
+
+    THE BOW: an asymmetric longbow far taller than a person, the grip set about one third up from the bottom so the upper limb is much longer. Laminated bamboo finished in dark red lacquer, bound with rattan at intervals. A pale twisted string.
+
+    0-2s: [Medium Two-Shot] A master archer in his 40s in a black training top, dark hakama and white split-toe socks faces the young female bowyer in her early 20s. He wears a leather chest guard and a deerskin glove on his right hand. She is in a navy work jacket and apron, hair tied back, unsmiling. He stands her bow upright and turns it once in the window light so the lacquer flashes, then meets her eye: "Are you ready?" She answers firmly "Yes." Quick cut to her determined face, then to three ceramic beckoning-cat figurines on stands across the hall, white bodies painted with red ears and collars and gold bells.
+
+    2-4s: [Low-Angle Tracking + Rapid Cuts] The master raises the bow high above his head, then spreads his arms and lowers it. His left arm extends straight forward while his gloved right hand draws the string back past his right ear, bending the bow deeply. Hard cut to side angle as the arrow leaves the string. Impact explodes in slow motion as the point drives into the first cat's face: glazed porcelain splits into sharp fragments, red and gold paint chips flying out with the white dust. Time locks at peak penetration. Camera orbits the frozen arrow buried in the broken figurine for one second. Quick insert ECU of the point breaking out through the back.
+
+    4-6s: [Dynamic Side Tracking] Action resumes. The first figurine is already shattered, only its base left on the stand. The master nocks a second arrow and draws in the same form. Slow-motion again: the second figurine tears apart sideways, large red and gold pieces scattering with the dust. Freeze at maximum destruction. Two rapid cuts: one over-shoulder from behind the master, one low angle under the flying fragments. Orbit holds half a second on the locked impact.
+
+    6-8s: [Handheld Close Action] The first two figurines are already broken, only bases and scattered shards remain. Third shot — short, vicious release. Slow-mo impact, the porcelain erupts into dozens of pieces, an ear and a raised paw flying. Full freeze. Camera pushes in and circles the frozen chaos for one beat. Quick insert of the master's focused face after the release, then back to the locked arrow.
+
+    8-10s: [Series of Fast Cuts] Time resumes. The master holds the bow upright and turns it in the window light. Tight ECU along the string: two strands lifted and frayed. Cut to his bare fingertips rubbing that spot, glove off. Cut to all three stands still shedding dust, every figurine shattered. Cut to the young woman's tense expression as she watches.
+
+    10-12s: [Medium Close-Up] The master rests the bow tip on the floor and looks straight at her. Calm, professional: "There are two strands frayed on the string… but your bow, ma'am… it goes through." The three stands behind them remain shattered. Hard cut to her face — a small, controlled smile of pride breaks through.
+
+    12-15s: [Final ECU Montage] Extreme close-up of the frayed but still taut string in the window light. Cut to porcelain fragments scattered across the wooden floor. Final frame holds on the young bowyer's quiet satisfaction as the master nods once.
+
+    Realistic TV broadcast quality, detailed porcelain shatter physics, sharp arrowhead and string detail, natural motion blur only on moving elements, stable characters, coherent impact timing, no artifacts.
+
+    TechHalla님의 프롬프트를 제 식대로 재구성해봤습니다👏
+  images:
+  - 117.jpg
+  author: '@magic_ai_skill'
+  author_link: https://x.com/magic_ai_skill
+  source: https://x.com/magic_ai_skill/status/2084310185502511554
