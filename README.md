@@ -1,4 +1,4 @@
-<a href="https://velokey.ai?sourceChannel=github-awesome-seedance"><img src="images/banner.png" width="100%" alt="Awesome Seedance 2.5 Prompts"></a>
+<a href="https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance"><img src="images/banner.png" width="100%" alt="Awesome Seedance 2.5 Prompts"></a>
 
 # 🎬 Awesome Seedance 2.5 Prompts
 
@@ -8,7 +8,7 @@
 
 > A curated collection of creative **video** prompts for ByteDance's **Seedance 2.5** video model, collected from the community with attribution.
 >
-> ⚡ Try every prompt through one OpenAI-compatible API — **[Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)** gives you Seedance, Kling, Veo, Sora and more with a single key, pay-as-you-go.
+> ⚡ Try every prompt through one OpenAI-compatible API — **[Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)** gives you Seedance, Kling, Veo, Sora and more with a single key, pay-as-you-go.
 
 > ⚠️ **Copyright**: All prompts and preview frames are collected from public community posts for educational purposes, with author attribution and source links. If any content infringes your rights, please open an issue and we will remove it promptly.
 
@@ -232,7 +232,7 @@ And the flying kick at 0:16 was not in my prompt. I left it out on purpose becau
 
 **👤 Credit:** [@artovista](https://x.com/artovista) · [source](https://x.com/artovista/status/2083199703634575842)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -259,7 +259,7 @@ Painterly digital art style, a sword fight between two characters from reference
 
 **👤 Credit:** [@Dyyaiworker](https://x.com/Dyyaiworker) · [source](https://x.com/Dyyaiworker/status/2083215037725073579)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -305,7 +305,7 @@ Coming soon to Higgsfield.
 
 **👤 Credit:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083238023865729416)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -435,7 +435,7 @@ Keep the protagonist, broom, flying direction, city geography, and lighting tran
 
 **👤 Credit:** [@AIcanvas_Frames](https://x.com/AIcanvas_Frames) · [source](https://x.com/AIcanvas_Frames/status/2083382439846801753)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -498,7 +498,7 @@ Avoid identity drift, remnants of the original reference clothing, costume chang
 
 **👤 Credit:** [@liaojitao](https://x.com/liaojitao) · [source](https://x.com/liaojitao/status/2083526956537024739)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -643,7 +643,7 @@ Scene 4 SFX: The loud, heavy CLICK of the physical camcorder button being presse
 
 **👤 Credit:** [@kinovi_ai](https://x.com/kinovi_ai) · [source](https://x.com/kinovi_ai/status/2083589777002275326)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -676,7 +676,7 @@ Throughout the tour, she maintains eye contact with the camera, smiles naturally
 
 **👤 Credit:** [@HeyZoyaKhan](https://x.com/HeyZoyaKhan) · [source](https://x.com/HeyZoyaKhan/status/2083626872609407105)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -727,7 +727,7 @@ Use First frame and last frame
 
 **👤 Credit:** [@woleswoosh](https://x.com/woleswoosh) · [source](https://x.com/woleswoosh/status/2083628438112571614)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -798,7 +798,7 @@ Hope you find it useful 😎
 
 **👤 Credit:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2083854169782325248)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -827,7 +827,7 @@ A single drop of black ink falls onto a blank sheet of paper in extreme close-up
 
 **👤 Credit:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083877878517670041)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -873,7 +873,7 @@ NEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, e
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083954551183298856)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -911,7 +911,7 @@ NEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, e
 
 **👤 Credit:** [@Cia0_exe](https://x.com/Cia0_exe) · [source](https://x.com/Cia0_exe/status/2083779210376781857)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -940,7 +940,7 @@ Deep in an ancient forest at dusk. The trees slowly part as a massive, majestic 
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083892601036345506)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -977,7 +977,7 @@ not music. asmr sounds
 
 **👤 Credit:** [@hedo_ist](https://x.com/hedo_ist) · [source](https://x.com/hedo_ist/status/2083989215046455361)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1107,7 +1107,7 @@ Keep the protagonist, broom, flying direction, city geography, and lighting tran
 
 **👤 Credit:** [@AIcanvas_Frames](https://x.com/AIcanvas_Frames) · [source](https://x.com/AIcanvas_Frames/status/2083383374840787223)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1166,7 +1166,7 @@ CINEMATOGRAPHY: anamorphic lens flares on the feathers, warm golden-hour color g
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2084397163560181783)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1213,7 +1213,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 **👤 Credit:** [@JMSvid](https://x.com/JMSvid) · [source](https://x.com/JMSvid/status/2083210992343756893)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1288,7 +1288,7 @@ studio lighting, no subtitles, no music.
 
 **👤 Credit:** [@jaynwabueze](https://x.com/jaynwabueze) · [source](https://x.com/jaynwabueze/status/2083215240154530250)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1331,7 +1331,7 @@ Audio: constant close rain drumming on the umbrella fabric - the loudest, neares
 
 **👤 Credit:** [@OriSilver](https://x.com/OriSilver) · [source](https://x.com/OriSilver/status/2083255233141186741)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1380,7 +1380,7 @@ Hey @HigsfieldAI team — DMs are open for creator collaborations, early access,
 
 **👤 Credit:** [@VishalAiLabs](https://x.com/VishalAiLabs) · [source](https://x.com/VishalAiLabs/status/2083259837031559212)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1431,7 +1431,7 @@ Prompt 👇
 
 **👤 Credit:** [@NexlowX](https://x.com/NexlowX) · [source](https://x.com/NexlowX/status/2083281796351881692)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1464,7 +1464,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 **👤 Credit:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083290634731864190)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1500,7 +1500,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 **👤 Credit:** [@WolfRiccardo](https://x.com/WolfRiccardo) · [source](https://x.com/WolfRiccardo/status/2083332541453308312)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1547,7 +1547,7 @@ Audio includes room tone, clothing movement, table creaks, soft breathing, dialo
 
 **👤 Credit:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083402592282132693)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1609,7 +1609,7 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 
 **👤 Credit:** [@doctorwasif](https://x.com/doctorwasif) · [source](https://x.com/doctorwasif/status/2083418162331345309)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1673,7 +1673,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 **👤 Credit:** [@johnAGI168](https://x.com/johnAGI168) · [source](https://x.com/johnAGI168/status/2083430135152209926)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1740,7 +1740,7 @@ Avoid identity drift, changes in facial structure, longer hair, changes in outfi
 
 **👤 Credit:** [@liaojitao](https://x.com/liaojitao) · [source](https://x.com/liaojitao/status/2083432555752333367)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1795,7 +1795,7 @@ Continuity constraints: Preserve one cleaner, one mop, one terminal layout and o
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083483493862879504)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1846,7 +1846,7 @@ Prioritise intimate food sounds: yoghurt stirring, garlic scraping, simmering wa
 
 **👤 Credit:** [@buraktuyan](https://x.com/buraktuyan) · [source](https://x.com/buraktuyan/status/2083502114714640454)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1878,7 +1878,7 @@ A photorealistic smartphone selfie vlog that looks exactly like a real mobile ph
 
 **👤 Credit:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [source](https://x.com/saniaspeaks_/status/2083520337157787838)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -1972,7 +1972,7 @@ subtitles, no background music, no readable text or logos.
 
 **👤 Credit:** [@jaynwabueze](https://x.com/jaynwabueze) · [source](https://x.com/jaynwabueze/status/2083524547739787466)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2005,7 +2005,7 @@ Prompt 👇
 
 **👤 Credit:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083546568125288542)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2045,7 +2045,7 @@ CAMERA: one unbroken physical path, a weighted rig with real mass - every move t
 
 **👤 Credit:** [@Runaway_Rhino](https://x.com/Runaway_Rhino) · [source](https://x.com/Runaway_Rhino/status/2083557853764206903)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2119,7 +2119,7 @@ Grid 8–9：以主舞女剪影为主
 
 **👤 Credit:** [@MrLarus](https://x.com/MrLarus) · [source](https://x.com/MrLarus/status/2083560269964271693)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2196,7 +2196,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 **👤 Credit:** [@Artedeingenio](https://x.com/Artedeingenio) · [source](https://x.com/Artedeingenio/status/2083573046309191997)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2238,7 +2238,7 @@ AUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answe
 
 **👤 Credit:** [@janmexico](https://x.com/janmexico) · [source](https://x.com/janmexico/status/2083592315893903801)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2299,7 +2299,7 @@ Goal: Authentic Korean neighborhood life captured like a forgotten home video fr
 
 **👤 Credit:** [@aivoxyy](https://x.com/aivoxyy) · [source](https://x.com/aivoxyy/status/2083596849768993075)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2326,7 +2326,7 @@ Goal: Authentic Korean neighborhood life captured like a forgotten home video fr
 
 **👤 Credit:** [@HeyZaraKhan](https://x.com/HeyZaraKhan) · [source](https://x.com/HeyZaraKhan/status/2083616633172767227)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2353,7 +2353,7 @@ A realistic doorway peephole POV video shot through a ultra wide fisheye lens wi
 
 **👤 Credit:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083678409272721652)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2394,7 +2394,7 @@ Creative Goal: Deliver a calm, intimate, emotionally grounded slice-of-life film
 
 **👤 Credit:** [@frametheory058](https://x.com/frametheory058) · [source](https://x.com/frametheory058/status/2083751909605949754)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2425,7 +2425,7 @@ Once upon a time there lived a hare. The hare could run very fast. It was proud 
 
 **👤 Credit:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083768136172552259)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2452,7 +2452,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 **👤 Credit:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083769258236866658)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2495,7 +2495,7 @@ NYC Urban VLOG: Subject Scene Descriptions (0-30s)
 
 **👤 Credit:** [@pound75423](https://x.com/pound75423) · [source](https://x.com/pound75423/status/2083783654439092589)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2530,7 +2530,7 @@ Let's see 👇
 
 **👤 Credit:** [@FikkkFX](https://x.com/FikkkFX) · [source](https://x.com/FikkkFX/status/2083799040119144747)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2557,7 +2557,7 @@ Cinematic 13-second raw handheld streetwear fashion video shot on 8mm vintage fi
 
 **👤 Credit:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083814808319562052)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2604,7 +2604,7 @@ PEOPLE: Historically accurate. Plain wool tunics in undyed cream, brown, rust. R
 
 **👤 Credit:** [@TechieBySA](https://x.com/TechieBySA) · [source](https://x.com/TechieBySA/status/2083864656796422309)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2697,7 +2697,7 @@ DIALOGUE: five short lines only, warm and understated, never shouted, never cart
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083869167791305173)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2749,7 +2749,7 @@ we are cooked 😮
 
 **👤 Credit:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2083908360118616268)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2829,7 +2829,7 @@ Sound design: colossal hybrid orchestral score, thunderous helicopter rotors, tu
 
 **👤 Credit:** [@Artedeingenio](https://x.com/Artedeingenio) · [source](https://x.com/Artedeingenio/status/2083910371086139759)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2862,7 +2862,7 @@ Prompt below 👇
 
 **👤 Credit:** [@azed_ai](https://x.com/azed_ai) · [source](https://x.com/azed_ai/status/2083946963075203549)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -2983,7 +2983,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 **👤 Credit:** [@Ciri_ai](https://x.com/Ciri_ai) · [source](https://x.com/Ciri_ai/status/2083956213113639013)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3027,7 +3027,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 **👤 Credit:** [@LudovicCreator](https://x.com/LudovicCreator) · [source](https://x.com/LudovicCreator/status/2083976193460601253)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3060,7 +3060,7 @@ Prompt shared below 👇🏻
 
 **👤 Credit:** [@Ankit_patel211](https://x.com/Ankit_patel211) · [source](https://x.com/Ankit_patel211/status/2083982398463856951)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3094,7 +3094,7 @@ A realistic handheld travel vlog filmed by a friend following the main character
 
 **👤 Credit:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2083659648108990925)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3125,7 +3125,7 @@ Prompt⤵️
 
 **👤 Credit:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2084023216440246455)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3158,7 +3158,7 @@ Visual Quality: Photorealistic, cinematic image quality with highly accurate flu
 
 **👤 Credit:** [@oggii_0](https://x.com/oggii_0) · [source](https://x.com/oggii_0/status/2084118983507312869)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3195,7 +3195,7 @@ Full prompt
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2084120410140893413)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3238,7 +3238,7 @@ Ultra-photorealistic vintage documentary, authentic analog exposure, realistic h
 
 **👤 Credit:** [@hey_am_cherry](https://x.com/hey_am_cherry) · [source](https://x.com/hey_am_cherry/status/2083562105186418695)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3282,7 +3282,7 @@ Shinkansen Vortex: Reaching terminal velocity within a multidimensional spiral o
 
 **👤 Credit:** [@martindacol](https://x.com/martindacol) · [source](https://x.com/martindacol/status/2084145439176036502)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3311,7 +3311,7 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 
 **👤 Credit:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [source](https://x.com/saniaspeaks_/status/2083857544024600757)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3346,7 +3346,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 **👤 Credit:** [@rahulnanda86](https://x.com/rahulnanda86) · [source](https://x.com/rahulnanda86/status/2083355736479052209)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3449,7 +3449,7 @@ The entire performance must feel spontaneous, messy, and completely believable. 
 
 **👤 Credit:** [@patrickassale](https://x.com/patrickassale) · [source](https://x.com/patrickassale/status/2083510766959800371)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3480,7 +3480,7 @@ IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap
 
 **👤 Credit:** [@opener_ai](https://x.com/opener_ai) · [source](https://x.com/opener_ai/status/2083542436148854864)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3511,7 +3511,7 @@ A fun, fast-paced action scene.
 
 **👤 Credit:** [@hedo_ist](https://x.com/hedo_ist) · [source](https://x.com/hedo_ist/status/2083593373512839197)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3549,7 +3549,7 @@ Only the camera is allowed to move. Camera follows an extremely stable, extremel
 
 **👤 Credit:** [@AIcanvas_Frames](https://x.com/AIcanvas_Frames) · [source](https://x.com/AIcanvas_Frames/status/2083761905794154738)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3578,7 +3578,7 @@ Seedance 2.5 seriously blew me away with its photorealistic human generation. I 
 
 **👤 Credit:** [@pound75423](https://x.com/pound75423) · [source](https://x.com/pound75423/status/2083783652199329798)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3631,7 +3631,7 @@ EXCLUDE: Motion blur anywhere, whip pans, cuts, hidden cuts, lens changes, camer
 
 **👤 Credit:** [@aimikoda](https://x.com/aimikoda) · [source](https://x.com/aimikoda/status/2083822518658334946)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3658,7 +3658,7 @@ A small messy apartment in the late afternoon. A young man comes home, drops his
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083838246459408833)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3687,7 +3687,7 @@ Image1 é um alienígena comandante e líder. Image2 é um alienígena soldado. 
 
 **👤 Credit:** [@FabianoFirmo](https://x.com/FabianoFirmo) · [source](https://x.com/FabianoFirmo/status/2083859196248818022)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3714,7 +3714,7 @@ A 15 second urban fashion film shot on dynamic ultra wide fisheye lens capturing
 
 **👤 Credit:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083863629590352329)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3754,7 +3754,7 @@ A 15 second urban fashion film shot on dynamic ultra wide fisheye lens capturing
 
 **👤 Credit:** [@Linkinpark3Park](https://x.com/Linkinpark3Park) · [source](https://x.com/Linkinpark3Park/status/2083885953626829071)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3799,7 +3799,7 @@ Descending again, the camera passes into a wide shot into a small indoor garden 
 
 **👤 Credit:** [@MrDavids1](https://x.com/MrDavids1) · [source](https://x.com/MrDavids1/status/2083964230273786361)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3838,7 +3838,7 @@ Photorealistic, ultra-detailed fluid simulation, realistic fish and ice physics,
 
 **👤 Credit:** [@Ankit_patel211](https://x.com/Ankit_patel211) · [source](https://x.com/Ankit_patel211/status/2083982404755292463)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3881,7 +3881,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **👤 Credit:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2083389002552664385)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -3928,7 +3928,7 @@ I promise I didn't use any image reference for this one, use it wisely 🫡
 
 **👤 Credit:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2084018642300141851)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4063,7 +4063,7 @@ The complete video must feel like one long Instagram feed physically scrolling u
 
 **👤 Credit:** [@janmexico](https://x.com/janmexico) · [source](https://x.com/janmexico/status/2084140262310166813)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4120,7 +4120,7 @@ Json Prompt - Seedance 25 t2v model
 
 **👤 Credit:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2084145163694129428)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4169,7 +4169,7 @@ Grounded performances, restrained camera movement, realistic skin, cloth, dust a
 
 **👤 Credit:** [@LudovicCreator](https://x.com/LudovicCreator) · [source](https://x.com/LudovicCreator/status/2084157396352372836)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4196,7 +4196,7 @@ NO MUSIC, ONLY NATURAL SOUND — Epic blockbuster fantasy, shot on ARRI Alexa 65
 
 **👤 Credit:** [@yesand_ai](https://x.com/yesand_ai) · [source](https://x.com/yesand_ai/status/2083181765590667766)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4243,7 +4243,7 @@ CONTINUITY LOCK: same face, glasses, bob haircut with green streaks, white flowe
 
 **👤 Credit:** [@zasuko_michiksa](https://x.com/zasuko_michiksa) · [source](https://x.com/zasuko_michiksa/status/2083951358877798818)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4274,7 +4274,7 @@ You can find character sheets in the quoted post.
 
 **👤 Credit:** [@aimikoda](https://x.com/aimikoda) · [source](https://x.com/aimikoda/status/2083415174556307528)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4303,7 +4303,7 @@ First try of 3 minute generation with @dreamina_ai Seedance 2.5 . Very simple pr
 
 **👤 Credit:** [@Christian_Luoma](https://x.com/Christian_Luoma) · [source](https://x.com/Christian_Luoma/status/2083562206810046802)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4349,7 +4349,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 **👤 Credit:** [@martindacol](https://x.com/martindacol) · [source](https://x.com/martindacol/status/2083795741605310486)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4390,7 +4390,7 @@ Seedance 2.5. Nine minutes. One prompt. The rainforest, the spider, and the six-
 
 **👤 Credit:** [@cipgerx](https://x.com/cipgerx) · [source](https://x.com/cipgerx/status/2083607693256712347)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4424,7 +4424,7 @@ Prompt guide
 
 **👤 Credit:** [@TheMavel](https://x.com/TheMavel) · [source](https://x.com/TheMavel/status/2083995038170702143)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4516,7 +4516,7 @@ The video ends on the held profile of the rider stopped at the cliff edge, facin
 
 **👤 Credit:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2083219991856304394)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4654,7 +4654,7 @@ The video ends on the held close-up of the woman's face, the image full and lit 
 
 **👤 Credit:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2083281155286085911)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4808,7 +4808,7 @@ No portal, black hole, fantasy reveal, studio destruction, flying cubes or detac
 
 **👤 Credit:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2083594010271129750)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4898,7 +4898,7 @@ It's in Chinese because the English prompt was way too long.
 
 **👤 Credit:** [@maxescu](https://x.com/maxescu) · [source](https://x.com/maxescu/status/2084015920620478585)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -4972,7 +4972,7 @@ Photorealistic, ultra-detailed fluid physics, realistic dinosaur animation, cine
 
 **👤 Credit:** [@azed_ai](https://x.com/azed_ai) · [source](https://x.com/azed_ai/status/2083946975767269520)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5006,7 +5006,7 @@ Single unbroken handheld boyfriend vlog take throughout, 30 seconds total. A rea
 
 **👤 Credit:** [@QCXINT_](https://x.com/QCXINT_) · [source](https://x.com/QCXINT_/status/2084057368909021350)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5041,7 +5041,7 @@ Prompt ⤵️
 
 **👤 Credit:** [@opener_ai](https://x.com/opener_ai) · [source](https://x.com/opener_ai/status/2083542433078624470)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5072,7 +5072,7 @@ It has a totally different style from the video below:)
 
 **👤 Credit:** [@steddipace](https://x.com/steddipace) · [source](https://x.com/steddipace/status/2084053662809153926)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5109,7 +5109,7 @@ Lo que más me sorprendió es que, desde el primer intento, el modelo generó pr
 
 **👤 Credit:** [@postandfly](https://x.com/postandfly) · [source](https://x.com/postandfly/status/2083228757322592309)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5140,7 +5140,7 @@ SCENE A day in New York shot entirely by the subject herself: waking in her hote
 
 **👤 Credit:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083235536530202710)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5201,7 +5201,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 **👤 Credit:** [@EHuanglu](https://x.com/EHuanglu) · [source](https://x.com/EHuanglu/status/2083246033761694117)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5320,7 +5320,7 @@ Deliver one final 15.0-second native 16:9 video and report the result briefly in
 
 **👤 Credit:** [@LeeLinAI123](https://x.com/LeeLinAI123) · [source](https://x.com/LeeLinAI123/status/2083305831404044545)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5353,7 +5353,7 @@ A smooth animated video featuring a black dolphin character wearing pink sunglas
 
 **👤 Credit:** [@okuwaki_m](https://x.com/okuwaki_m) · [source](https://x.com/okuwaki_m/status/2083364253529264252)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5384,7 +5384,7 @@ The performance begins mid-attack as a shadow wolf leaps through the smoke and t
 
 **👤 Credit:** [@aimikoda](https://x.com/aimikoda) · [source](https://x.com/aimikoda/status/2083371542717558854)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5420,7 +5420,7 @@ The performance begins mid-attack as a shadow wolf leaps through the smoke and t
 
 **👤 Credit:** [@mrdejie](https://x.com/mrdejie) · [source](https://x.com/mrdejie/status/2083433982356836382)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5488,7 +5488,7 @@ Seedance 2.5 really cooked on this one. Share your thoughts in the comment secti
 
 **👤 Credit:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083479402973651024)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5568,7 +5568,7 @@ Share your thoughts in the comments section below!
 
 **👤 Credit:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083480073026343323)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5607,7 +5607,7 @@ First 30 second part prompt yes : [视觉风格与整体基调]
 
 **👤 Credit:** [@Linkinpark3Park](https://x.com/Linkinpark3Park) · [source](https://x.com/Linkinpark3Park/status/2083577267142140193)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5636,7 +5636,7 @@ A 15-second continuous one-take cinematic shot of a young female street musician
 
 **👤 Credit:** [@MathisYanis](https://x.com/MathisYanis) · [source](https://x.com/MathisYanis/status/2083637120883728546)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5671,7 +5671,7 @@ prompt
 
 **👤 Credit:** [@Aqib__786Ai](https://x.com/Aqib__786Ai) · [source](https://x.com/Aqib__786Ai/status/2083787627531034977)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5731,7 +5731,7 @@ falling ember-rain, and the lava-lit peaks.
 
 **👤 Credit:** [@Ciri_ai](https://x.com/Ciri_ai) · [source](https://x.com/Ciri_ai/status/2083803575915044941)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -5776,7 +5776,7 @@ Made in @dreamina_ai
 
 **👤 Credit:** [@LudovicCreator](https://x.com/LudovicCreator) · [source](https://x.com/LudovicCreator/status/2083915958524031087)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6258,7 +6258,7 @@ exaggerated CGI effects.
 
 **👤 Credit:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2083939966594527607)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6411,7 +6411,7 @@ Epic hybrid orchestral score with choir, aggressive percussion, distorted indust
 
 **👤 Credit:** [@egeberkina](https://x.com/egeberkina) · [source](https://x.com/egeberkina/status/2083998355948999079)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6457,7 +6457,7 @@ Overall style: Japanese idol private vlog. Soft and nostalgic. Like a personal v
 
 **👤 Credit:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2084013378461478952)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6530,7 +6530,7 @@ That's one of the biggest differences between an AI video...
 
 **👤 Credit:** [@QCXINT_](https://x.com/QCXINT_) · [source](https://x.com/QCXINT_/status/2084057364320354755)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6561,7 +6561,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 **👤 Credit:** [@Nabilidosoo](https://x.com/Nabilidosoo) · [source](https://x.com/Nabilidosoo/status/2083148007843774669)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6614,7 +6614,7 @@ Wind, thunder, machinery, metallic impacts, cloud whooshes and orchestral percus
 
 **👤 Credit:** [@StarjupiAI](https://x.com/StarjupiAI) · [source](https://x.com/StarjupiAI/status/2084368408791949782)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6643,7 +6643,7 @@ Animated fantasy with painterly 3D characters, hand-painted textures, expressive
 
 **👤 Credit:** [@Carlos_Arthurr](https://x.com/Carlos_Arthurr) · [source](https://x.com/Carlos_Arthurr/status/2084341370400227489)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6672,7 +6672,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 **👤 Credit:** [@Just_sharon7](https://x.com/Just_sharon7) · [source](https://x.com/Just_sharon7/status/2084238339469615320)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6701,7 +6701,7 @@ A cinematic action vlog in live-action photorealism. A young Japanese woman (ima
 
 **👤 Credit:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [source](https://x.com/saniaspeaks_/status/2084231786155081918)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6750,7 +6750,7 @@ TechHalla님의 프롬프트를 제 식대로 재구성해봤습니다👏
 
 **👤 Credit:** [@magic_ai_skill](https://x.com/magic_ai_skill) · [source](https://x.com/magic_ai_skill/status/2084310185502511554)
 
-▶️ **Run this prompt via API** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
+▶️ **Run this prompt via API** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance) (model id: `seedance-2.5`)
 
 ---
 
@@ -6768,6 +6768,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Prompt
 
 <sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-07 04:54 UTC</sub>
 
-<br><sub>One API for leading text, image & video models · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedance)</sub>
+<br><sub>One API for leading text, image & video models · [velokey.ai](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)</sub>
 
 </div>

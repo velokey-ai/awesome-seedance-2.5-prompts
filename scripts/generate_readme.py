@@ -10,7 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "prompts.yaml")
 
 REPO = "velokey-ai/awesome-seedance-2.5-prompts"
-SITE = "https://velokey.ai?sourceChannel=github-awesome-seedance"
+SITE = "https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance"
 BANNER = "images/banner.png"  # 顶部横幅，images/ 下存在才会显示
 
 # ---------------- 分类注册表 ----------------

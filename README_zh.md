@@ -1,4 +1,4 @@
-<a href="https://velokey.ai?sourceChannel=github-awesome-seedance"><img src="images/banner.png" width="100%" alt="Awesome Seedance 2.5 Prompts"></a>
+<a href="https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance"><img src="images/banner.png" width="100%" alt="Awesome Seedance 2.5 Prompts"></a>
 
 # 🎬 Seedance 2.5 神级视频提示词合集
 
@@ -8,7 +8,7 @@
 
 > 精选社区疯传的 **Seedance 2.5** 创意**视频**提示词，全部标注原作者与出处。
 >
-> ⚡ 想直接跑这些提示词？**[Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)** 一个 API 调用 Seedance、Kling、Veo、Sora 等主流视频模型，一个 Key，按量付费。
+> ⚡ 想直接跑这些提示词？**[Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)** 一个 API 调用 Seedance、Kling、Veo、Sora 等主流视频模型，一个 Key，按量付费。
 
 > ⚠️ **版权说明**：所有提示词与预览帧均收集自公开社区帖子，仅作学习交流，均已标注作者与来源。如有侵权请提 Issue，我们会第一时间删除。
 
@@ -232,7 +232,7 @@ And the flying kick at 0:16 was not in my prompt. I left it out on purpose becau
 
 **👤 出处:** [@artovista](https://x.com/artovista) · [source](https://x.com/artovista/status/2083199703634575842)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -259,7 +259,7 @@ Painterly digital art style, a sword fight between two characters from reference
 
 **👤 出处:** [@Dyyaiworker](https://x.com/Dyyaiworker) · [source](https://x.com/Dyyaiworker/status/2083215037725073579)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -305,7 +305,7 @@ Coming soon to Higgsfield.
 
 **👤 出处:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083238023865729416)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -435,7 +435,7 @@ Keep the protagonist, broom, flying direction, city geography, and lighting tran
 
 **👤 出处:** [@AIcanvas_Frames](https://x.com/AIcanvas_Frames) · [source](https://x.com/AIcanvas_Frames/status/2083382439846801753)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -498,7 +498,7 @@ Avoid identity drift, remnants of the original reference clothing, costume chang
 
 **👤 出处:** [@liaojitao](https://x.com/liaojitao) · [source](https://x.com/liaojitao/status/2083526956537024739)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -643,7 +643,7 @@ Scene 4 SFX: The loud, heavy CLICK of the physical camcorder button being presse
 
 **👤 出处:** [@kinovi_ai](https://x.com/kinovi_ai) · [source](https://x.com/kinovi_ai/status/2083589777002275326)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -676,7 +676,7 @@ Throughout the tour, she maintains eye contact with the camera, smiles naturally
 
 **👤 出处:** [@HeyZoyaKhan](https://x.com/HeyZoyaKhan) · [source](https://x.com/HeyZoyaKhan/status/2083626872609407105)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -727,7 +727,7 @@ Use First frame and last frame
 
 **👤 出处:** [@woleswoosh](https://x.com/woleswoosh) · [source](https://x.com/woleswoosh/status/2083628438112571614)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -798,7 +798,7 @@ Hope you find it useful 😎
 
 **👤 出处:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2083854169782325248)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -827,7 +827,7 @@ A single drop of black ink falls onto a blank sheet of paper in extreme close-up
 
 **👤 出处:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083877878517670041)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -873,7 +873,7 @@ NEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, e
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083954551183298856)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -911,7 +911,7 @@ NEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, e
 
 **👤 出处:** [@Cia0_exe](https://x.com/Cia0_exe) · [source](https://x.com/Cia0_exe/status/2083779210376781857)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -940,7 +940,7 @@ Deep in an ancient forest at dusk. The trees slowly part as a massive, majestic 
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083892601036345506)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -977,7 +977,7 @@ not music. asmr sounds
 
 **👤 出处:** [@hedo_ist](https://x.com/hedo_ist) · [source](https://x.com/hedo_ist/status/2083989215046455361)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1107,7 +1107,7 @@ Keep the protagonist, broom, flying direction, city geography, and lighting tran
 
 **👤 出处:** [@AIcanvas_Frames](https://x.com/AIcanvas_Frames) · [source](https://x.com/AIcanvas_Frames/status/2083383374840787223)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1166,7 +1166,7 @@ CINEMATOGRAPHY: anamorphic lens flares on the feathers, warm golden-hour color g
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2084397163560181783)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1213,7 +1213,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 **👤 出处:** [@JMSvid](https://x.com/JMSvid) · [source](https://x.com/JMSvid/status/2083210992343756893)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1288,7 +1288,7 @@ studio lighting, no subtitles, no music.
 
 **👤 出处:** [@jaynwabueze](https://x.com/jaynwabueze) · [source](https://x.com/jaynwabueze/status/2083215240154530250)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1331,7 +1331,7 @@ Audio: constant close rain drumming on the umbrella fabric - the loudest, neares
 
 **👤 出处:** [@OriSilver](https://x.com/OriSilver) · [source](https://x.com/OriSilver/status/2083255233141186741)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1380,7 +1380,7 @@ Hey @HigsfieldAI team — DMs are open for creator collaborations, early access,
 
 **👤 出处:** [@VishalAiLabs](https://x.com/VishalAiLabs) · [source](https://x.com/VishalAiLabs/status/2083259837031559212)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1431,7 +1431,7 @@ Prompt 👇
 
 **👤 出处:** [@NexlowX](https://x.com/NexlowX) · [source](https://x.com/NexlowX/status/2083281796351881692)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1464,7 +1464,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 **👤 出处:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083290634731864190)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1500,7 +1500,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 **👤 出处:** [@WolfRiccardo](https://x.com/WolfRiccardo) · [source](https://x.com/WolfRiccardo/status/2083332541453308312)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1547,7 +1547,7 @@ Audio includes room tone, clothing movement, table creaks, soft breathing, dialo
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083402592282132693)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1609,7 +1609,7 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 
 **👤 出处:** [@doctorwasif](https://x.com/doctorwasif) · [source](https://x.com/doctorwasif/status/2083418162331345309)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1673,7 +1673,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 **👤 出处:** [@johnAGI168](https://x.com/johnAGI168) · [source](https://x.com/johnAGI168/status/2083430135152209926)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1740,7 +1740,7 @@ Avoid identity drift, changes in facial structure, longer hair, changes in outfi
 
 **👤 出处:** [@liaojitao](https://x.com/liaojitao) · [source](https://x.com/liaojitao/status/2083432555752333367)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1795,7 +1795,7 @@ Continuity constraints: Preserve one cleaner, one mop, one terminal layout and o
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083483493862879504)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1846,7 +1846,7 @@ Prioritise intimate food sounds: yoghurt stirring, garlic scraping, simmering wa
 
 **👤 出处:** [@buraktuyan](https://x.com/buraktuyan) · [source](https://x.com/buraktuyan/status/2083502114714640454)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1878,7 +1878,7 @@ A photorealistic smartphone selfie vlog that looks exactly like a real mobile ph
 
 **👤 出处:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [source](https://x.com/saniaspeaks_/status/2083520337157787838)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -1972,7 +1972,7 @@ subtitles, no background music, no readable text or logos.
 
 **👤 出处:** [@jaynwabueze](https://x.com/jaynwabueze) · [source](https://x.com/jaynwabueze/status/2083524547739787466)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2005,7 +2005,7 @@ Prompt 👇
 
 **👤 出处:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083546568125288542)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2045,7 +2045,7 @@ CAMERA: one unbroken physical path, a weighted rig with real mass - every move t
 
 **👤 出处:** [@Runaway_Rhino](https://x.com/Runaway_Rhino) · [source](https://x.com/Runaway_Rhino/status/2083557853764206903)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2119,7 +2119,7 @@ Grid 8–9：以主舞女剪影为主
 
 **👤 出处:** [@MrLarus](https://x.com/MrLarus) · [source](https://x.com/MrLarus/status/2083560269964271693)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2196,7 +2196,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 **👤 出处:** [@Artedeingenio](https://x.com/Artedeingenio) · [source](https://x.com/Artedeingenio/status/2083573046309191997)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2238,7 +2238,7 @@ AUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answe
 
 **👤 出处:** [@janmexico](https://x.com/janmexico) · [source](https://x.com/janmexico/status/2083592315893903801)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2299,7 +2299,7 @@ Goal: Authentic Korean neighborhood life captured like a forgotten home video fr
 
 **👤 出处:** [@aivoxyy](https://x.com/aivoxyy) · [source](https://x.com/aivoxyy/status/2083596849768993075)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2326,7 +2326,7 @@ Goal: Authentic Korean neighborhood life captured like a forgotten home video fr
 
 **👤 出处:** [@HeyZaraKhan](https://x.com/HeyZaraKhan) · [source](https://x.com/HeyZaraKhan/status/2083616633172767227)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2353,7 +2353,7 @@ A realistic doorway peephole POV video shot through a ultra wide fisheye lens wi
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083678409272721652)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2394,7 +2394,7 @@ Creative Goal: Deliver a calm, intimate, emotionally grounded slice-of-life film
 
 **👤 出处:** [@frametheory058](https://x.com/frametheory058) · [source](https://x.com/frametheory058/status/2083751909605949754)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2425,7 +2425,7 @@ Once upon a time there lived a hare. The hare could run very fast. It was proud 
 
 **👤 出处:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2083768136172552259)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2452,7 +2452,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083769258236866658)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2495,7 +2495,7 @@ NYC Urban VLOG: Subject Scene Descriptions (0-30s)
 
 **👤 出处:** [@pound75423](https://x.com/pound75423) · [source](https://x.com/pound75423/status/2083783654439092589)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2530,7 +2530,7 @@ Let's see 👇
 
 **👤 出处:** [@FikkkFX](https://x.com/FikkkFX) · [source](https://x.com/FikkkFX/status/2083799040119144747)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2557,7 +2557,7 @@ Cinematic 13-second raw handheld streetwear fashion video shot on 8mm vintage fi
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083814808319562052)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2604,7 +2604,7 @@ PEOPLE: Historically accurate. Plain wool tunics in undyed cream, brown, rust. R
 
 **👤 出处:** [@TechieBySA](https://x.com/TechieBySA) · [source](https://x.com/TechieBySA/status/2083864656796422309)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2697,7 +2697,7 @@ DIALOGUE: five short lines only, warm and understated, never shouted, never cart
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083869167791305173)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2749,7 +2749,7 @@ we are cooked 😮
 
 **👤 出处:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2083908360118616268)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2829,7 +2829,7 @@ Sound design: colossal hybrid orchestral score, thunderous helicopter rotors, tu
 
 **👤 出处:** [@Artedeingenio](https://x.com/Artedeingenio) · [source](https://x.com/Artedeingenio/status/2083910371086139759)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2862,7 +2862,7 @@ Prompt below 👇
 
 **👤 出处:** [@azed_ai](https://x.com/azed_ai) · [source](https://x.com/azed_ai/status/2083946963075203549)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -2983,7 +2983,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 **👤 出处:** [@Ciri_ai](https://x.com/Ciri_ai) · [source](https://x.com/Ciri_ai/status/2083956213113639013)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3027,7 +3027,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 **👤 出处:** [@LudovicCreator](https://x.com/LudovicCreator) · [source](https://x.com/LudovicCreator/status/2083976193460601253)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3060,7 +3060,7 @@ Prompt shared below 👇🏻
 
 **👤 出处:** [@Ankit_patel211](https://x.com/Ankit_patel211) · [source](https://x.com/Ankit_patel211/status/2083982398463856951)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3094,7 +3094,7 @@ A realistic handheld travel vlog filmed by a friend following the main character
 
 **👤 出处:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2083659648108990925)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3125,7 +3125,7 @@ Prompt⤵️
 
 **👤 出处:** [@sebatheepan](https://x.com/sebatheepan) · [source](https://x.com/sebatheepan/status/2084023216440246455)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3158,7 +3158,7 @@ Visual Quality: Photorealistic, cinematic image quality with highly accurate flu
 
 **👤 出处:** [@oggii_0](https://x.com/oggii_0) · [source](https://x.com/oggii_0/status/2084118983507312869)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3195,7 +3195,7 @@ Full prompt
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2084120410140893413)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3238,7 +3238,7 @@ Ultra-photorealistic vintage documentary, authentic analog exposure, realistic h
 
 **👤 出处:** [@hey_am_cherry](https://x.com/hey_am_cherry) · [source](https://x.com/hey_am_cherry/status/2083562105186418695)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3282,7 +3282,7 @@ Shinkansen Vortex: Reaching terminal velocity within a multidimensional spiral o
 
 **👤 出处:** [@martindacol](https://x.com/martindacol) · [source](https://x.com/martindacol/status/2084145439176036502)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3311,7 +3311,7 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 
 **👤 出处:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [source](https://x.com/saniaspeaks_/status/2083857544024600757)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3346,7 +3346,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 **👤 出处:** [@rahulnanda86](https://x.com/rahulnanda86) · [source](https://x.com/rahulnanda86/status/2083355736479052209)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3449,7 +3449,7 @@ The entire performance must feel spontaneous, messy, and completely believable. 
 
 **👤 出处:** [@patrickassale](https://x.com/patrickassale) · [source](https://x.com/patrickassale/status/2083510766959800371)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3480,7 +3480,7 @@ IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap
 
 **👤 出处:** [@opener_ai](https://x.com/opener_ai) · [source](https://x.com/opener_ai/status/2083542436148854864)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3511,7 +3511,7 @@ A fun, fast-paced action scene.
 
 **👤 出处:** [@hedo_ist](https://x.com/hedo_ist) · [source](https://x.com/hedo_ist/status/2083593373512839197)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3549,7 +3549,7 @@ Only the camera is allowed to move. Camera follows an extremely stable, extremel
 
 **👤 出处:** [@AIcanvas_Frames](https://x.com/AIcanvas_Frames) · [source](https://x.com/AIcanvas_Frames/status/2083761905794154738)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3578,7 +3578,7 @@ Seedance 2.5 seriously blew me away with its photorealistic human generation. I 
 
 **👤 出处:** [@pound75423](https://x.com/pound75423) · [source](https://x.com/pound75423/status/2083783652199329798)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3631,7 +3631,7 @@ EXCLUDE: Motion blur anywhere, whip pans, cuts, hidden cuts, lens changes, camer
 
 **👤 出处:** [@aimikoda](https://x.com/aimikoda) · [source](https://x.com/aimikoda/status/2083822518658334946)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3658,7 +3658,7 @@ A small messy apartment in the late afternoon. A young man comes home, drops his
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2083838246459408833)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3687,7 +3687,7 @@ Image1 é um alienígena comandante e líder. Image2 é um alienígena soldado. 
 
 **👤 出处:** [@FabianoFirmo](https://x.com/FabianoFirmo) · [source](https://x.com/FabianoFirmo/status/2083859196248818022)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3714,7 +3714,7 @@ A 15 second urban fashion film shot on dynamic ultra wide fisheye lens capturing
 
 **👤 出处:** [@bmx_ai13](https://x.com/bmx_ai13) · [source](https://x.com/bmx_ai13/status/2083863629590352329)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3754,7 +3754,7 @@ A 15 second urban fashion film shot on dynamic ultra wide fisheye lens capturing
 
 **👤 出处:** [@Linkinpark3Park](https://x.com/Linkinpark3Park) · [source](https://x.com/Linkinpark3Park/status/2083885953626829071)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3799,7 +3799,7 @@ Descending again, the camera passes into a wide shot into a small indoor garden 
 
 **👤 出处:** [@MrDavids1](https://x.com/MrDavids1) · [source](https://x.com/MrDavids1/status/2083964230273786361)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3838,7 +3838,7 @@ Photorealistic, ultra-detailed fluid simulation, realistic fish and ice physics,
 
 **👤 出处:** [@Ankit_patel211](https://x.com/Ankit_patel211) · [source](https://x.com/Ankit_patel211/status/2083982404755292463)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3881,7 +3881,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **👤 出处:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2083389002552664385)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -3928,7 +3928,7 @@ I promise I didn't use any image reference for this one, use it wisely 🫡
 
 **👤 出处:** [@techhalla](https://x.com/techhalla) · [source](https://x.com/techhalla/status/2084018642300141851)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4063,7 +4063,7 @@ The complete video must feel like one long Instagram feed physically scrolling u
 
 **👤 出处:** [@janmexico](https://x.com/janmexico) · [source](https://x.com/janmexico/status/2084140262310166813)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4120,7 +4120,7 @@ Json Prompt - Seedance 25 t2v model
 
 **👤 出处:** [@Dheepanratnam](https://x.com/Dheepanratnam) · [source](https://x.com/Dheepanratnam/status/2084145163694129428)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4169,7 +4169,7 @@ Grounded performances, restrained camera movement, realistic skin, cloth, dust a
 
 **👤 出处:** [@LudovicCreator](https://x.com/LudovicCreator) · [source](https://x.com/LudovicCreator/status/2084157396352372836)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4196,7 +4196,7 @@ NO MUSIC, ONLY NATURAL SOUND — Epic blockbuster fantasy, shot on ARRI Alexa 65
 
 **👤 出处:** [@yesand_ai](https://x.com/yesand_ai) · [source](https://x.com/yesand_ai/status/2083181765590667766)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4243,7 +4243,7 @@ CONTINUITY LOCK: same face, glasses, bob haircut with green streaks, white flowe
 
 **👤 出处:** [@zasuko_michiksa](https://x.com/zasuko_michiksa) · [source](https://x.com/zasuko_michiksa/status/2083951358877798818)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4274,7 +4274,7 @@ You can find character sheets in the quoted post.
 
 **👤 出处:** [@aimikoda](https://x.com/aimikoda) · [source](https://x.com/aimikoda/status/2083415174556307528)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4303,7 +4303,7 @@ First try of 3 minute generation with @dreamina_ai Seedance 2.5 . Very simple pr
 
 **👤 出处:** [@Christian_Luoma](https://x.com/Christian_Luoma) · [source](https://x.com/Christian_Luoma/status/2083562206810046802)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4349,7 +4349,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 **👤 出处:** [@martindacol](https://x.com/martindacol) · [source](https://x.com/martindacol/status/2083795741605310486)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4390,7 +4390,7 @@ Seedance 2.5. Nine minutes. One prompt. The rainforest, the spider, and the six-
 
 **👤 出处:** [@cipgerx](https://x.com/cipgerx) · [source](https://x.com/cipgerx/status/2083607693256712347)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4424,7 +4424,7 @@ Prompt guide
 
 **👤 出处:** [@TheMavel](https://x.com/TheMavel) · [source](https://x.com/TheMavel/status/2083995038170702143)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4516,7 +4516,7 @@ The video ends on the held profile of the rider stopped at the cliff edge, facin
 
 **👤 出处:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2083219991856304394)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4654,7 +4654,7 @@ The video ends on the held close-up of the woman's face, the image full and lit 
 
 **👤 出处:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2083281155286085911)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4808,7 +4808,7 @@ No portal, black hole, fantasy reveal, studio destruction, flying cubes or detac
 
 **👤 出处:** [@digitalwindai](https://x.com/digitalwindai) · [source](https://x.com/digitalwindai/status/2083594010271129750)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4898,7 +4898,7 @@ It's in Chinese because the English prompt was way too long.
 
 **👤 出处:** [@maxescu](https://x.com/maxescu) · [source](https://x.com/maxescu/status/2084015920620478585)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -4972,7 +4972,7 @@ Photorealistic, ultra-detailed fluid physics, realistic dinosaur animation, cine
 
 **👤 出处:** [@azed_ai](https://x.com/azed_ai) · [source](https://x.com/azed_ai/status/2083946975767269520)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5006,7 +5006,7 @@ Single unbroken handheld boyfriend vlog take throughout, 30 seconds total. A rea
 
 **👤 出处:** [@QCXINT_](https://x.com/QCXINT_) · [source](https://x.com/QCXINT_/status/2084057368909021350)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5041,7 +5041,7 @@ Prompt ⤵️
 
 **👤 出处:** [@opener_ai](https://x.com/opener_ai) · [source](https://x.com/opener_ai/status/2083542433078624470)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5072,7 +5072,7 @@ It has a totally different style from the video below:)
 
 **👤 出处:** [@steddipace](https://x.com/steddipace) · [source](https://x.com/steddipace/status/2084053662809153926)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5109,7 +5109,7 @@ Lo que más me sorprendió es que, desde el primer intento, el modelo generó pr
 
 **👤 出处:** [@postandfly](https://x.com/postandfly) · [source](https://x.com/postandfly/status/2083228757322592309)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5140,7 +5140,7 @@ SCENE A day in New York shot entirely by the subject herself: waking in her hote
 
 **👤 出处:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083235536530202710)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5201,7 +5201,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 **👤 出处:** [@EHuanglu](https://x.com/EHuanglu) · [source](https://x.com/EHuanglu/status/2083246033761694117)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5320,7 +5320,7 @@ Deliver one final 15.0-second native 16:9 video and report the result briefly in
 
 **👤 出处:** [@LeeLinAI123](https://x.com/LeeLinAI123) · [source](https://x.com/LeeLinAI123/status/2083305831404044545)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5353,7 +5353,7 @@ A smooth animated video featuring a black dolphin character wearing pink sunglas
 
 **👤 出处:** [@okuwaki_m](https://x.com/okuwaki_m) · [source](https://x.com/okuwaki_m/status/2083364253529264252)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5384,7 +5384,7 @@ The performance begins mid-attack as a shadow wolf leaps through the smoke and t
 
 **👤 出处:** [@aimikoda](https://x.com/aimikoda) · [source](https://x.com/aimikoda/status/2083371542717558854)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5420,7 +5420,7 @@ The performance begins mid-attack as a shadow wolf leaps through the smoke and t
 
 **👤 出处:** [@mrdejie](https://x.com/mrdejie) · [source](https://x.com/mrdejie/status/2083433982356836382)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5488,7 +5488,7 @@ Seedance 2.5 really cooked on this one. Share your thoughts in the comment secti
 
 **👤 出处:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083479402973651024)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5568,7 +5568,7 @@ Share your thoughts in the comments section below!
 
 **👤 出处:** [@noman23761](https://x.com/noman23761) · [source](https://x.com/noman23761/status/2083480073026343323)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5607,7 +5607,7 @@ First 30 second part prompt yes : [视觉风格与整体基调]
 
 **👤 出处:** [@Linkinpark3Park](https://x.com/Linkinpark3Park) · [source](https://x.com/Linkinpark3Park/status/2083577267142140193)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5636,7 +5636,7 @@ A 15-second continuous one-take cinematic shot of a young female street musician
 
 **👤 出处:** [@MathisYanis](https://x.com/MathisYanis) · [source](https://x.com/MathisYanis/status/2083637120883728546)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5671,7 +5671,7 @@ prompt
 
 **👤 出处:** [@Aqib__786Ai](https://x.com/Aqib__786Ai) · [source](https://x.com/Aqib__786Ai/status/2083787627531034977)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5731,7 +5731,7 @@ falling ember-rain, and the lava-lit peaks.
 
 **👤 出处:** [@Ciri_ai](https://x.com/Ciri_ai) · [source](https://x.com/Ciri_ai/status/2083803575915044941)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -5776,7 +5776,7 @@ Made in @dreamina_ai
 
 **👤 出处:** [@LudovicCreator](https://x.com/LudovicCreator) · [source](https://x.com/LudovicCreator/status/2083915958524031087)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6258,7 +6258,7 @@ exaggerated CGI effects.
 
 **👤 出处:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2083939966594527607)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6411,7 +6411,7 @@ Epic hybrid orchestral score with choir, aggressive percussion, distorted indust
 
 **👤 出处:** [@egeberkina](https://x.com/egeberkina) · [source](https://x.com/egeberkina/status/2083998355948999079)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6457,7 +6457,7 @@ Overall style: Japanese idol private vlog. Soft and nostalgic. Like a personal v
 
 **👤 出处:** [@BubbleBrain](https://x.com/BubbleBrain) · [source](https://x.com/BubbleBrain/status/2084013378461478952)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6530,7 +6530,7 @@ That's one of the biggest differences between an AI video...
 
 **👤 出处:** [@QCXINT_](https://x.com/QCXINT_) · [source](https://x.com/QCXINT_/status/2084057364320354755)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6561,7 +6561,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 **👤 出处:** [@Nabilidosoo](https://x.com/Nabilidosoo) · [source](https://x.com/Nabilidosoo/status/2083148007843774669)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6614,7 +6614,7 @@ Wind, thunder, machinery, metallic impacts, cloud whooshes and orchestral percus
 
 **👤 出处:** [@StarjupiAI](https://x.com/StarjupiAI) · [source](https://x.com/StarjupiAI/status/2084368408791949782)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6643,7 +6643,7 @@ Animated fantasy with painterly 3D characters, hand-painted textures, expressive
 
 **👤 出处:** [@Carlos_Arthurr](https://x.com/Carlos_Arthurr) · [source](https://x.com/Carlos_Arthurr/status/2084341370400227489)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6672,7 +6672,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 **👤 出处:** [@Just_sharon7](https://x.com/Just_sharon7) · [source](https://x.com/Just_sharon7/status/2084238339469615320)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6701,7 +6701,7 @@ A cinematic action vlog in live-action photorealism. A young Japanese woman (ima
 
 **👤 出处:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [source](https://x.com/saniaspeaks_/status/2084231786155081918)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6750,7 +6750,7 @@ TechHalla님의 프롬프트를 제 식대로 재구성해봤습니다👏
 
 **👤 出处:** [@magic_ai_skill](https://x.com/magic_ai_skill) · [source](https://x.com/magic_ai_skill/status/2084310185502511554)
 
-▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
+▶️ **用 API 跑这条提示词** → [Velokey](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)（模型 id：`seedance-2.5`）
 
 ---
 
@@ -6768,6 +6768,6 @@ TechHalla님의 프롬프트를 제 식대로 재구성해봤습니다👏
 
 <sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-07 04:54 UTC</sub>
 
-<br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai?sourceChannel=github-awesome-seedance)</sub>
+<br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)</sub>
 
 </div>
