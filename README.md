@@ -16,7 +16,7 @@
 
 | 📝 Total Prompts | ⭐ Featured | 🏷️ Categories | 🔄 Last Updated |
 |---|---|---|---|
-| **117** | **16** | **6** | 2026-08-15 03:37 UTC |
+| **117** | **16** | **6** | 2026-08-16 03:47 UTC |
 
 ## 🗂️ Browse by Category
 
@@ -6766,7 +6766,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Prompt
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-15 03:37 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-16 03:47 UTC</sub>
 
 <br><sub>One API for leading text, image & video models · [velokey.ai](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)</sub>
 
