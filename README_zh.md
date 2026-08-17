@@ -16,7 +16,7 @@
 
 | 📝 提示词总数 | ⭐ 精选 | 🏷️ 分类数 | 🔄 最近更新 |
 |---|---|---|---|
-| **117** | **16** | **6** | 2026-08-16 03:47 UTC |
+| **117** | **16** | **6** | 2026-08-17 03:49 UTC |
 
 ## 🗂️ 按分类浏览
 
@@ -6766,7 +6766,7 @@ TechHalla님의 프롬프트를 제 식대로 재구성해봤습니다👏
 
 <div align="center">
 
-<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-16 03:47 UTC</sub>
+<sub>🤖 Auto-generated from <code>data/prompts.yaml</code> · 2026-08-17 03:49 UTC</sub>
 
 <br><sub>一个 API 接入主流文本 / 图片 / 视频模型 · [velokey.ai](https://velokey.ai/model/doubao-seedance-2-5-text-to-video?sourceChannel=github-awesome-seedance)</sub>
 
